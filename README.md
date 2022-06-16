@@ -21,4 +21,4 @@ Feature #8
 ![Performance of Trained Model](https://raw.githubusercontent.com/Reliance-FYP/COVID-19-Detection/main/Performance.png)
 
 ### Dataset
-[Dataset Kaggle](https://www.kaggle.comtawsifurrahmancovid19-radiography-databaseselect=COVID-19_Radiography_Dataset)
+[Dataset Kaggle](https://www.kaggle.com/tawsifurrahmancovid19-radiography-databaseselect=COVID-19_Radiography_Dataset)
